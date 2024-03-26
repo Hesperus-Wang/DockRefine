@@ -1,2 +1,5 @@
 # DockRefine
-对接后重打分方法的开发与应用——基于配体相似性与药物-靶点相互作用
+This is the implementation of ZeroBind: a post-docking rescoring method based on ligand similarity comparison and Drug-Target interaction
+ZeroBind is built on Python3, we recommend using a virtual conda environment as enviroment management for the installation of ZeroBind and its dependencies. The virtual environment can be created as follows:
+conda create -n your_environment python==3.9
+conda activate your_environment
