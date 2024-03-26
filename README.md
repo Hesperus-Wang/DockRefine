@@ -37,7 +37,7 @@ python main_script.py
 ```
 ## Examples of results
 ```
-Ranking	    Compound ID	   Rescore
+Ranking	    Compound ID	      Rescore
 1	active_CHEMBL4100838	1.8648
 2	active_CHEMBL4068526	1.8633
 3	active_CHEMBL2023494	1.854
